@@ -25,7 +25,7 @@ const Footer = () => {
                 </a>
               </div>
               <div className='copyright'>
-                This website is designed by Utibest &copy; 2023
+                This website is designed by Utibest &copy; 2025
               </div>
           </div>
 
@@ -59,7 +59,7 @@ const Footer = () => {
           </div>
 
           <div className='copyright mobile'>
-                This website is designed by Utibest &copy; 2023
+                This website is designed by Utibest &copy; 2025
               </div>
 
         </div>
