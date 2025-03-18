@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='content-container'>
           <div className='links'>
             <a href="#" className='logo'>
-              Sound <span className='red'>DZign</span>
+              Sound <span className='red'>UTign</span>
             </a>
 
             <div className="social-icons">
